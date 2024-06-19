@@ -1,1 +1,4 @@
-theme: minima
+theme: minima,
+title: Katajs, 
+author: ndajiya,
+description: A blog about using Katas to learn javascript
